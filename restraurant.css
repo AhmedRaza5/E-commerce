@@ -259,7 +259,9 @@ a{
   justify-content: center;
 }
 
-
+.calender-img img{
+ cursor: pointer;
+}
 .calender{
   padding-right: 20px;
   
